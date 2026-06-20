@@ -33,7 +33,7 @@ const GARANTIAS = [
 ];
 
 const CONTACTS = [
-  { city: "CDMX Central",    tel: "+525637976743",  label: "+52 56 3797 6743", bg: "url('../assets/cdmx-map.jpg')", avatar: "assets/admins/cdmx-central.png" },
+  { city: "CDMX Central",    tel: "+525637976743",  label: "+52 56 3797 6743", bg: "url('assets/cdmx-map.jpg')", avatar: "assets/admins/cdmx-central.png" },
   { city: "CDMX Coyoacán",   tel: "+525544916610",  label: "+52 55 4491 6610", bg: "url('../assets/coyoacan-map.jpg')", avatar: "assets/admins/cdmx-sur.png" },
   { city: "Texcoco",         tel: "+525951019227",  label: "+52 595 101 9227", bg: "url('../assets/texcoco-map.jpg')", avatar: "assets/admins/texcoco.jpeg" },
   { city: "Toluca",          tel: "+527211241972",  label: "+52 721 124 1972", bg: "url('../assets/toluca-map.jpg')", avatar: "assets/admins/toluca.jpeg" },
